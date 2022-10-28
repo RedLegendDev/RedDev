@@ -1,1 +1,1 @@
-# RedDev
+print("Hello World")
